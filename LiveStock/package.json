@@ -4,7 +4,7 @@
   "author": "Anurag Singh",
   "license": "ISC",
   "private": true,
-  "homepage": "https://annurag09.github.io/LiveStock",
+  "homepage": "https://annurag09.github.io/LiveStock/",
   "main": "index.js",
   "dependencies": {
     "bulma-pageloader": "^2.2.0",
